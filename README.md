@@ -3,6 +3,10 @@
 
 ==================================================================================
 
+## Collection example
+
+https://testnets.opensea.io/collection/robohash
+
 ## How to use
 > This project is based on [nft-mix](https://github.com/PatrickAlphaC/nft-mix) example. 
 > Please check tools installation instructions there.
