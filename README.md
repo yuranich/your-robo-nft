@@ -20,8 +20,15 @@ export PINATA_API_SECRET=...
 * Run `brownie compile` to compile smart contract
 * Run `brownie run scripts/deploy.py --network rinkeby` for contract deployment.
 * Then run `brownie run scripts/create_collectible.py --network rinkeby` to generate, upload and create.
-* Proceed with link from output and check your NFT !
+* **Proceed with link from output and check your NFT !**
+
+## How it works
+all the DeFi basics are explained in this amazing free [course](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+Here is simple flow sketch:
+
+![](schema.png)
 
 
 ----------------------------------------------------------------------------------
-Thanks to RoboHash.org by providing this lovely service to humble developers.
+Thanks to [RoboHash](robohash.org) by providing this lovely robot generation service to humble developers.
